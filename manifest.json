@@ -1,0 +1,8 @@
+{
+  "name": "Vegetable Garden Roi",
+  "short_name": "vegetable-ga",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1"
+}
